@@ -1,0 +1,24 @@
+_repo: The-Church-Rate-A-Dialogue-Between-a-Churchman-and-a-Dissenter_62004
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Richings, B. (Benjamin)
+    alias: Richings, Benjamin
+    deathdate: 1872
+    gutenberg_agent_id: '51723'
+    url: http://www.gutenberg.org/2009/agents/51723
+description: ''
+gutenberg_issued: '2020-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62004'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Church tax -- Great Britain'
+- !lcc 'BX'
+- GITenberg
+title: 'The Church Rate: A Dialogue Between a Churchman and a Dissenter'
+url: http://www.gutenberg.org/ebooks/62004
